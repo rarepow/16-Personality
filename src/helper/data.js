@@ -117,11 +117,11 @@ export const data = [
     },
     {
       id: 15,
-      title: "Complete the Test and View Detailed Results",
+      title: "Complete the Test and View Detailed Results"  ,
       desc:
-        "An Entrepreneur (ESTP) is someone with the Extraverted, Observant, Thinking, and Prospecting personality traits. They tend to be energetic and action-oriented, deftly navigating whatever is in front of them. They love uncovering life’s opportunities, whether socializing with others or in more personal pursuits.",
+        "Be yourself and answer honestly to find out your personality type.Learn how your personality type influences many areas of your life.",
       image:
-        "https://cdn.pixabay.com/photo/2019/12/04/05/17/band-4671748_640.jpg",
+        "https://cdn.pixabay.com/photo/2014/04/03/00/37/puzzle-308908_640.png",
     },
     {
       id: 16,
@@ -132,11 +132,11 @@ export const data = [
         "https://cdn.pixabay.com/photo/2017/05/27/21/59/dancer-2349565_640.png",
     },
     {
-      id: 16,
-      title: "Entertainer Personality: ESFP-A / ESFP-T",
+      id: 17,
+      title: "Take the Test",
       desc:
-        "An Entertainer (ESFP) is a person with the Extraverted, Observant, Feeling, and Prospecting personality traits. These people love vibrant experiences, engaging in life eagerly and taking pleasure in discovering the unknown. They can be very social, often encouraging others into shared activities.",
+        "please login to be able to do the test  ",
       image:
-        "https://cdn.pixabay.com/photo/2017/05/27/21/59/dancer-2349565_640.png",
+        "https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_640.png",
     },
   ];
