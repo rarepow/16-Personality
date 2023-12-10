@@ -5,7 +5,7 @@ Creating a project using react and scss together
 
 
 ##  Link of the Project
-[Live](https://astrology-rct.vercel.app)
+
 
 
 
@@ -13,7 +13,7 @@ Creating a project using react and scss together
 
 
 ## How does my project look
-![horoscope](./public/horoscope.gif)
+!
 
 
 
